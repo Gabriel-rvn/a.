@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-rvn/a..git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-rvn/a./issues"
+  },
+  "homepage": "https://github.com/Gabriel-rvn/a.#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
